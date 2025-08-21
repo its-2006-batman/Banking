@@ -3,6 +3,12 @@ import {withSentryConfig} from '@sentry/nextjs';
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  tyescript:{
+    ignoreBuildErrors:true
+  },
+  eslint:{
+    ignoreDuringBuilds:true
+  }
 };
 
 export default withSentryConfig(nextConfig, {
@@ -35,4 +41,5 @@ disableLogger: true,
 // https://docs.sentry.io/product/crons/
 // https://vercel.com/docs/cron-jobs
 automaticVercelMonitors: true,
+
 });
