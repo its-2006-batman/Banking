@@ -235,6 +235,8 @@ Deploy with **Vercel**:
 * Docs: [https://nextjs.org/docs/app/building-your-application/deploying](https://nextjs.org/docs/app/building-your-application/deploying)
 
 ---
+Screenshots:
+
 <img width="2875" height="1616" alt="image" src="https://github.com/user-attachments/assets/91f8e9f5-7678-4cb2-8b27-86eb932747ba" />
 <img width="2873" height="1609" alt="image" src="https://github.com/user-attachments/assets/bb8d69a7-4065-4409-8cac-74afa8ae64dd" />
 <img width="2872" height="1609" alt="image" src="https://github.com/user-attachments/assets/ee490f71-f1fe-45ab-b892-36667512b6d9" />
